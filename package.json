@@ -1,6 +1,6 @@
 {
   "name": "@dotenvx/dotenvx-ext-hub-linux-aarch64",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "dotenvx-ext-hub-linux-aarch64 binary",
   "repository": {
     "type": "git",
